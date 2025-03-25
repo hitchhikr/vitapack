@@ -541,7 +541,7 @@ int main(int argc, const char **argv)
         }
         else
         {
-            printf("\nFinal size: %d bytes (Trailing data kept !)\\n", total);
+            printf("\nFinal size: %d bytes (Trailing data kept !)\n", total);
         }
     }
     
