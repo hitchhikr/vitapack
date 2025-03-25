@@ -230,8 +230,8 @@ int main(int argc, const char **argv)
     int mangle_zip = 1;
     int min_arg = 1;
 
-    printf("VitaPack v1.0\n");
-	printf("Written by hitchhikr of Rebels.\n\n");
+    printf("VitaPack v1.1\n");
+	printf("Written by hitchhikr of Neural.\n\n");
 
 	if (argc < 2 || argc > 4)
     {

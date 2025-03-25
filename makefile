@@ -1,7 +1,7 @@
 CC = gcc
 
 LIBS = -lzip -lz -lssp
-FLAGS = -O3 -fstack-protector -L/mingw64/lib
+FLAGS = -O3 -s -fstack-protector
 CXXFLAGS = $(FLAGS)
 
 EXEOBJS = src/vitapack.o
